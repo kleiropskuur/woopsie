@@ -10,8 +10,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+
+    font-family: sans-serif;
 }
 
 h1{
+    color: red;;
     font-size: 3em;
+    margin-bottom: 0.5em;
+}
+p{
+    font-size: 1.5em;
 }
